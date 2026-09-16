@@ -19,3 +19,11 @@ Club managers and front-office executives could use the dashboard to compare tea
 ## Connection to Chapter 7
 
 At this stage, the project represents the creative phase of analytics innovation discussed in Chapter 7. The main focus is developing the analytics idea, identifying the decision-making problem, and explaining how the idea could provide value to the organization. The dashboard has not yet been developed or tested, so the project is still in the early idea-development stage.
+
+## Prototype Enhancement
+
+The prototype adds a performance alert feature to the original EPL Team Performance Decision-Support Dashboard. Instead of requiring decision makers to review every performance measure, the dashboard would highlight important differences between actual and expected team performance.
+
+For example, the dashboard could flag situations where a team's actual points are noticeably different from its expected points (xPTS), or where actual goals are considerably different from expected goals (xG). These alerts would help decision makers quickly identify unusual performance patterns that may require further investigation.
+
+This change could improve decision-making because managers and front-office executives would be able to focus their attention on the most important performance differences. Instead of reviewing every number on the dashboard, they could quickly identify areas that may require additional analysis or action.
