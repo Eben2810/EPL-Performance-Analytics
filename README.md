@@ -27,3 +27,10 @@ The prototype adds a performance alert feature to the original EPL Team Performa
 For example, the dashboard could flag situations where a team's actual points are noticeably different from its expected points (xPTS), or where actual goals are considerably different from expected goals (xG). These alerts would help decision makers quickly identify unusual performance patterns that may require further investigation.
 
 This change could improve decision-making because managers and front-office executives would be able to focus their attention on the most important performance differences. Instead of reviewing every number on the dashboard, they could quickly identify areas that may require additional analysis or action.
+## Prototype Evaluation
+
+The performance alert enhancement could improve the original dashboard because it would make important performance information easier for decision makers to identify. However, feedback should be collected from the people who would use the dashboard before the enhancement is fully integrated into the main project.
+
+Managers and front-office executives could provide feedback about which differences between actual and expected performance are important enough to generate an alert. They could also provide feedback about how the alerts should be displayed and whether the feature makes the dashboard easier to understand and use.
+
+Based on this evaluation, I believe the performance alert enhancement should be integrated into the main project because it could help decision makers identify important performance differences more quickly. However, feedback from users would still be important for improving the feature after integration.
