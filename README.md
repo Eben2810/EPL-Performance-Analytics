@@ -34,3 +34,11 @@ The performance alert enhancement could improve the original dashboard because i
 Managers and front-office executives could provide feedback about which differences between actual and expected performance are important enough to generate an alert. They could also provide feedback about how the alerts should be displayed and whether the feature makes the dashboard easier to understand and use.
 
 Based on this evaluation, I believe the performance alert enhancement should be integrated into the main project because it could help decision makers identify important performance differences more quickly. However, feedback from users would still be important for improving the feature after integration.
+
+## Reflection on Innovation and Version Control
+
+GitHub branches support low-risk experimentation because analytics teams can test new ideas without changing the main version of a project. In this project, the prototype branch allowed me to experiment with the performance alert feature while keeping the original dashboard idea on the main branch. If the enhancement did not improve the project, it could have remained separate without affecting the original idea.
+
+GitHub can also help analytics ideas gain traction with decision makers because it provides a clear record of how an idea develops over time. Commits document important changes, while branches allow new ideas to be tested and evaluated before they are integrated into the main project. This makes it easier for team members and decision makers to understand why changes were made.
+
+This workflow aligns with the innovation framework discussed in Chapter 7. The original dashboard idea represented the creative phase, while the prototype branch represented the prototyping phase. Evaluating the performance alert and considering feedback represented the engagement phase. Finally, merging the prototype into the main branch represented movement toward the build phase. Overall, GitHub provides a structured way for analytics ideas to move from an initial concept toward organizational adoption.
