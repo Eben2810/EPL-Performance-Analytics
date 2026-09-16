@@ -19,3 +19,11 @@ Club managers and front-office executives could use the dashboard to compare tea
 ## Connection to Chapter 7
 
 At this stage, the project represents the creative phase of analytics innovation discussed in Chapter 7. The main focus is developing the analytics idea, identifying the decision-making problem, and explaining how the idea could provide value to the organization. The dashboard has not yet been developed or tested, so the project is still in the early idea-development stage.
+
+## Prototype Evaluation
+
+The performance alert enhancement could improve the original dashboard because it would make important performance information easier for decision makers to identify. However, feedback should be collected from the people who would use the dashboard before the enhancement is fully integrated into the main project.
+
+Managers and front-office executives could provide feedback about which differences between actual and expected performance are important enough to generate an alert. They could also provide feedback about how the alerts should be displayed and whether the feature makes the dashboard easier to understand and use.
+
+Based on this evaluation, I believe the performance alert enhancement should be integrated into the main project because it could help decision makers identify important performance differences more quickly. However, feedback from users would still be important for improving the feature after integration.
